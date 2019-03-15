@@ -1,0 +1,7 @@
+C:\ISTA322\programingexercisepractice\programingexercisepractice\bin\Debug\programingexercisepractice.exe.config
+C:\ISTA322\programingexercisepractice\programingexercisepractice\bin\Debug\programingexercisepractice.exe
+C:\ISTA322\programingexercisepractice\programingexercisepractice\bin\Debug\programingexercisepractice.pdb
+C:\ISTA322\programingexercisepractice\programingexercisepractice\obj\Debug\programingexercisepractice.csprojAssemblyReference.cache
+C:\ISTA322\programingexercisepractice\programingexercisepractice\obj\Debug\programingexercisepractice.csproj.CoreCompileInputs.cache
+C:\ISTA322\programingexercisepractice\programingexercisepractice\obj\Debug\programingexercisepractice.exe
+C:\ISTA322\programingexercisepractice\programingexercisepractice\obj\Debug\programingexercisepractice.pdb

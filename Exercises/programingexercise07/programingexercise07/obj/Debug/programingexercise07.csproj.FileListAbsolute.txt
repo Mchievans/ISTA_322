@@ -1,0 +1,14 @@
+C:\ISTA220\exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.csprojAssemblyReference.cache
+C:\ISTA220\exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.csproj.CoreCompileInputs.cache
+C:\ISTA220\exercises\programingexercise07\programingexercise07\bin\Debug\programingexercise07.exe.config
+C:\ISTA220\exercises\programingexercise07\programingexercise07\bin\Debug\programingexercise07.exe
+C:\ISTA220\exercises\programingexercise07\programingexercise07\bin\Debug\programingexercise07.pdb
+C:\ISTA220\exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.exe
+C:\ISTA220\exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.pdb
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\bin\Debug\programingexercise07.exe.config
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\bin\Debug\programingexercise07.exe
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\bin\Debug\programingexercise07.pdb
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.csprojAssemblyReference.cache
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.csproj.CoreCompileInputs.cache
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.exe
+C:\ISTA322\Exercises\programingexercise07\programingexercise07\obj\Debug\programingexercise07.pdb

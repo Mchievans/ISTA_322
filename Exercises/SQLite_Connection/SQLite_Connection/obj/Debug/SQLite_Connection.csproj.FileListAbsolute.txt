@@ -1,0 +1,17 @@
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\obj\Debug\SQLite_Connection.csprojAssemblyReference.cache
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\obj\Debug\SQLite_Connection.csproj.CoreCompileInputs.cache
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\SQLite_Connection.exe.config
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\SQLite_Connection.exe
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\SQLite_Connection.pdb
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\EntityFramework.dll
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\EntityFramework.SqlServer.dll
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\System.Data.SQLite.dll
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\EntityFramework.xml
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\EntityFramework.SqlServer.xml
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\System.Data.SQLite.xml
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\bin\Debug\System.Data.SQLite.dll.config
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\obj\Debug\SQLite_Connection.csproj.CopyComplete
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\obj\Debug\SQLite_Connection.exe
+C:\Coding Practice\Practice\SQLite_Connection\SQLite_Connection\obj\Debug\SQLite_Connection.pdb

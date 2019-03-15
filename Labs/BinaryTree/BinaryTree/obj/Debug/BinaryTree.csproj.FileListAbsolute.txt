@@ -1,0 +1,7 @@
+C:\ISTA322\Labs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\ISTA322\Labs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\ISTA322\Labs\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\ISTA322\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\ISTA322\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\ISTA322\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\ISTA322\Labs\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

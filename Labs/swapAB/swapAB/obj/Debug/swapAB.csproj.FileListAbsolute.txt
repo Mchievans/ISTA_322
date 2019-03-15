@@ -1,0 +1,7 @@
+C:\ISTA322\Labs\swapAB\swapAB\bin\Debug\swapAB.exe.config
+C:\ISTA322\Labs\swapAB\swapAB\bin\Debug\swapAB.exe
+C:\ISTA322\Labs\swapAB\swapAB\bin\Debug\swapAB.pdb
+C:\ISTA322\Labs\swapAB\swapAB\obj\Debug\swapAB.csprojAssemblyReference.cache
+C:\ISTA322\Labs\swapAB\swapAB\obj\Debug\swapAB.csproj.CoreCompileInputs.cache
+C:\ISTA322\Labs\swapAB\swapAB\obj\Debug\swapAB.exe
+C:\ISTA322\Labs\swapAB\swapAB\obj\Debug\swapAB.pdb

@@ -1,0 +1,54 @@
+div.off{
+    width: 96px;
+    border: outset 6px red;
+    color: #ccffcc;
+    background-color: #000000;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+div.on{
+    width: 96px;
+    border: inset 6px #ff6666;
+    color: #000000;
+    background-color: #333333;
+    border-radius: 4px;
+    padding: 6px;
+
+    cursor: pointer;
+}
+
+body{
+    margin: 24px;
+    border: solid black 1px;
+    padding: 24px;
+    color: #660000;
+    background: #ffbbbb;
+
+}
+
+p#intro {
+    display: block;
+    background-color: #dddddd;
+}
+
+p#today{
+    display:block;
+    background-color: #bbbbbb;
+}
+div#list{
+    display: none;
+    color: black;
+    border: double 6px teal;
+}
+#turning{
+    visibility: visible;
+
+}
+#major{
+    visibility: hidden;
+}
+#sustain{
+    visibility: collapse;
+    
+}

@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            margin: 24px;
+            background: #222289;
+            border: #cccccc solid 6px;
+            padding: 12px;
+            font-family: sans-serif;
+        }
+        h1 {
+            color: #009034;
+        }
+
+        #mainDiv {
+            padding: 20px;
+            border: solid 3pt #222222;
+            font-size: 20pt
+        }
+    </style>
+</head>
+<body>
+    <h1> This is from the Basic file layout </h1>
+    <div id="mainDiv">    
+    @RenderBody()
+</div>
+</body>
+</html>

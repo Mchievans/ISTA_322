@@ -1,0 +1,11 @@
+C:\ISTA322\Labs\BuildTree\BuildTree\bin\Debug\BuildTree.exe.config
+C:\ISTA322\Labs\BuildTree\BuildTree\bin\Debug\BuildTree.exe
+C:\ISTA322\Labs\BuildTree\BuildTree\bin\Debug\BuildTree.pdb
+C:\ISTA322\Labs\BuildTree\BuildTree\bin\Debug\BinaryTree.exe
+C:\ISTA322\Labs\BuildTree\BuildTree\bin\Debug\BinaryTree.pdb
+C:\ISTA322\Labs\BuildTree\BuildTree\bin\Debug\BinaryTree.exe.config
+C:\ISTA322\Labs\BuildTree\BuildTree\obj\Debug\BuildTree.csprojAssemblyReference.cache
+C:\ISTA322\Labs\BuildTree\BuildTree\obj\Debug\BuildTree.csproj.CoreCompileInputs.cache
+C:\ISTA322\Labs\BuildTree\BuildTree\obj\Debug\BuildTree.csproj.CopyComplete
+C:\ISTA322\Labs\BuildTree\BuildTree\obj\Debug\BuildTree.exe
+C:\ISTA322\Labs\BuildTree\BuildTree\obj\Debug\BuildTree.pdb

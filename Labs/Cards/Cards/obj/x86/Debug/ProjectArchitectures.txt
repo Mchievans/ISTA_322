@@ -1,0 +1,1 @@
+C:\ISTA322\Labs\Cards\Cards\Cards.csproj;x86
